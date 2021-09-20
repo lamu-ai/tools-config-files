@@ -1,4 +1,4 @@
-The files python/.pylintrc and python/google_python_style.vim are licensed
+The files python/.pylintrc, python/google_python_style.vim, python/.style.yapf are licensed
 under the Apache License, Version 2.0.
 
 
